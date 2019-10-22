@@ -2,7 +2,7 @@
 void main()
 {	
 	int num;
-	printf("How many numbers are in the list : ");
+	printf("How many numbers   are in the list : ");
 	scanf("%d", &num);
 	
     int ar[5],i;
